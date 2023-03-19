@@ -1,0 +1,54 @@
+body{
+   background: gray;
+   margin: 0;
+   font-family: Arial;
+}
+
+div{
+    box-sizing: border-box; 
+}
+
+header {
+    background: white;
+    padding: 5px;
+}
+
+header h1 {
+    margin: 5px 50px
+}
+
+div.public {
+    background: white;
+    margin: 40px
+}
+
+div.public img{
+  width: 100%;
+}
+div.container{
+  width: 700px;
+  margin: auto;
+}
+
+div.public h2, 
+div.public p {
+   padding: 10px;
+   margin: 1%;
+}
+
+div.public .public__header div:first-child {
+    display: inline-block;
+    width: 89%;
+  
+  
+}
+
+div.public .public__header div:last-child {
+    display: inline-block;
+    width: 7%;
+    font-size: 18px;
+    font-weight: bold;
+    color:rgb(88, 87, 87);
+ 
+  
+}
