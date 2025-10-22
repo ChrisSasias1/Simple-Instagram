@@ -36,14 +36,14 @@ div.public p {
    margin: 1%;
 }
 
-div.public .public__header div:first-child {
+div.public .public-header div:first-child {
     display: inline-block;
     width: 89%;
   
   
 }
 
-div.public .public__header div:last-child {
+div.public .public-header div:last-child {
     display: inline-block;
     width: 7%;
     font-size: 18px;
